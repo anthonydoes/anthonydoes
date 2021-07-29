@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anthonydoes
-- 🌱 I’m currently learning all things JS - React, NodeJS, Gatsby - just trying to get my feet wet in everything, but I'm really trying to get a better handle of server-side programming with NodeJS first, and then I would like to eventually pick up some Ruby or PHP and work with Rails and Laraval.
+- 🌱 I’m currently learning all things JS - React, NodeJS, Gatsby - just trying to get my feet wet in everything, but my main goal is to  get a better handle of server-side programming, and eventually move into a full stack role. 
 - 💞️ I’m looking to collaborate on anything I can help out with! Need help with your front end? Let's chat :) 
 - 📫 How to reach me ... anthonydoesdev@gmail.com or anthonydoes.dev
 
