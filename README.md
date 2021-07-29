@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anthonydoes
-- 👀 I’m interested in becoming a fullstack software developer..being self-taught, I was able to land my first Jr FE role last year, but was cut short due to the pandemic.. I took some time to think about my next steps and decided to go back into technical project management role for the time being, but after working in that capacity again, I know I need to go back into a developer role, where I belong 😃
-- 🌱 I’m currently learning all things JS - React, NodeJS, Gatsby..just trying to get my feet wet in everything, but I'm really trying to get a better handle of server-side programming with NodeJS first, and then I would like to eventually pick up some Ruby or PHP..
-- 💞️ I’m looking to collaborate on anything I can help out with..
-- 📫 How to reach me ... anthonydoesdev@gmail.com 
+- 🌱 I’m currently learning all things JS - React, NodeJS, Gatsby - just trying to get my feet wet in everything, but I'm really trying to get a better handle of server-side programming with NodeJS first, and then I would like to eventually pick up some Ruby or PHP and work with Rails and Laraval.
+- 💞️ I’m looking to collaborate on anything I can help out with! Need help with your front end? Let's chat :) 
+- 📫 How to reach me ... anthonydoesdev@gmail.com or anthonydoes.dev
 
 <!---
 anthonydoes/anthonydoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
